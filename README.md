@@ -13,7 +13,7 @@ This repository showcases real-world LLM projects powered by:
 - Open-source models like **LLaMA, Qwen, Mistral**
 Run projects **locally or in the cloud**.
 ---
- <img width="1500" height="800" alt="LLm project store (2)" src="https://github.com/user-attachments/assets/fad65d20-0a7e-419b-89a5-70007544c304" />
+ <img width="1200" height="700" alt="LLm project store (2)" src="https://github.com/user-attachments/assets/fad65d20-0a7e-419b-89a5-70007544c304" />
 
 
 ## 🤔 Why LLM Projects Store?
