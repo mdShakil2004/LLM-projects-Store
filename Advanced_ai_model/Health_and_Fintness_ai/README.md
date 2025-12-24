@@ -55,17 +55,22 @@ A **next-generation AI-powered personal health and fitness companion** that goes
    ```bash
    git clone https://github.com/mdShakil2004/LLM-projects-Store.git
    cd Advanced_ai_model/Health_and_Fintness_ai
-
-   #Create a virtual environment 
+2 Create a virtual environment 
+  
     (recommended)
     Bash 
     python -m venv venv
     source venv/bin/activate        # On Windows: venv\Scripts\activate 
-   
-   #to run use 
-    streamlit run app.py
+3 to Install dependencies
+
+    pip install -r requirements.txt
+ 
+2 to run use
+
+    streamlit run health_and_fitness.py
     #or 
-     python.py 
+    python health_and_fitness.py
+
 
 Get your Gemini API Key
 Visit: [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey?referrer=mdShakil2004)
