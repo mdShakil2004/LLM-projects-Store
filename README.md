@@ -43,10 +43,11 @@ Run projects **locally or in the cloud**.
 
 # Advanced AI Model Projects
 
-1. [AI-powered health and fitness assistant using LLMs](Advanced_ai_model/Health_and_Fintness_ai)  
+1. [AI-powered health and fitness assistant using LLMs](Advanced_ai_model/Health_and_Fintness_ai)
+2. [Advanced Multi-Agent AI Researcher built with Streamlit + Agno](Advanced_ai_model/advanced%20ai%20research_agent)
      
-2.  comming soon...
-3. loading...
+4.  comming soon...
+5. loading...
  
 
 
