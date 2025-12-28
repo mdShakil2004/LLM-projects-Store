@@ -1,4 +1,6 @@
 # 🧠 LLM Projects Store
+Built by Md Shakil
+Full-stack developer & AI systems builder
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 A curated collection of **production-ready LLM applications** built using  
