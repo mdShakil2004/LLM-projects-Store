@@ -69,6 +69,7 @@ Want to add a project?
 
 This repository is licensed under the **MIT License**.  
 Copyright © 2025 Shakil (GitHub: @mdShakil2004)
+
 [Read licensed term & conditions ](LICENSE)
 
 You are free to **use, modify, and distribute after making clone** this project for personal or commercial purposes.  
