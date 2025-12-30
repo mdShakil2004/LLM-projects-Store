@@ -43,12 +43,12 @@ Run projects **locally or in the cloud**.
 
 1. [AI-powered health and fitness assistant using LLMs](Advanced_ai_model/Health_and_Fintness_ai)
 2. [Advanced Multi-Agent AI Researcher built with Streamlit + Agno](Advanced_ai_model/advanced%20ai%20research_agent)
-     
-4.  comming soon...
-5. loading...
+3.  comming soon...
+2. loading...
  
 
-
+## SaaS models 
+ 1. [AI research and finance_intelligence SAAS](AI_research_finance_intelligence_SAAS)
 
 
 
