@@ -1,0 +1,6 @@
+streamlit
+agno>=2.5.0
+openai
+requests
+pandas
+plotly
