@@ -50,6 +50,8 @@ Run projects **locally or in the cloud**.
  1. [AI research and finance_intelligence SAAS](AI_research_finance_intelligence_SAAS)
  2. loading...
 
+## Mobile APP 
+1. [Zyra-AI-powered-news-platform LLM RAG ](https://github.com/mdShakil2004/Zyra-AI-powered-news-platform.git)
 
 
 
