@@ -48,10 +48,15 @@ Run projects **locally or in the cloud**.
 
 ## SaaS models 
  1. [AI research and finance_intelligence SAAS](AI_research_finance_intelligence_SAAS)
- 2. loading...
+ 2. [LinkSnap - Scalable URL Shortener Millions of requiest per sec](Scalable_url_shorten_system)
+ 3. loading...
 
 ## Mobile APP 
 1. [Zyra-AI-powered-news-platform LLM RAG ](https://github.com/mdShakil2004/Zyra-AI-powered-news-platform.git)
+
+
+
+
 
 
 
