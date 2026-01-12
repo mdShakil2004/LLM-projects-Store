@@ -63,7 +63,7 @@ url-shortener/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/linksnap-url-shortener.git
+   git clone https://github.com/mdShakil2004/LLM-projects-Store.git
    cd linksnap-url-shortener
 
    #Backend SetupBashcd backend
