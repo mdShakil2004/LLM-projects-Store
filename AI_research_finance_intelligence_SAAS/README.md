@@ -3,7 +3,7 @@
 
 A production-ready **AI SaaS platform** built with a modular multi-agent architecture for research, finance intelligence, earnings analysis, and real-time insights.
 
-This system combines **LLM agents, financial APIs, knowledge ingestion, authentication, billing, and usage tracking** into a scalable SaaS backend.
+This system combines **LLM agents, financial APIs, knowledge ingestion, authentication, billing, and usage tracking** into a scalable SaaS backend
 
 ---
 
