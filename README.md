@@ -91,8 +91,8 @@ The software is provided **"as is"**, without warranty of any kind.
 ## ⭐ Star the Repo
 
 If this helps you build better LLM systems, **give it a star** ⭐  
-Let’s build the future of applied AI together.
+Let’s build the future of applied AI together
 
 ## Built by Md Shakil 
 
-Full-stack developer & AI systems builder
+Full-stack developer & AI systems builder 
