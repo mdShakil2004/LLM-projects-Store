@@ -6,7 +6,7 @@ A curated collection of **production-ready LLM applications** built using
 
 This repository showcases real-world LLM projects powered by:
 
-- OpenAI
+- OpenAI.
 - Anthropic (Claude)
 - Google Gemini
 - xAI (Grok)
