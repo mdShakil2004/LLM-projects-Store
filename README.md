@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 A curated collection of **production-ready LLM applications** built using  
-**RAG, AI Agents, Multi-Agent Teams, MCP, Voice AI, and Multimodal systems**.
+**RAG, AI Agents, Multi-Agent Teams, MCP, Voice AI, and Multimodal systems**
 
 This repository showcases real-world LLM projects powered by:
 
