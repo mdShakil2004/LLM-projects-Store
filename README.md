@@ -84,7 +84,7 @@ Copyright © 2025 Shakil (GitHub: @mdShakil2004)
 [Read licensed term & conditions ](LICENSE)
 
 You are free to **use, modify, and distribute after making clone** this project for personal or commercial purposes.  
-The software is provided **"as is"**, without warranty of any kind.
+The software is provided **"as is"**, without warranty of any kind
 
 ---
 
