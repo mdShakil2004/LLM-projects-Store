@@ -7,7 +7,7 @@ Designed with scalability in mind — ready to handle high traffic with clusteri
 ## Features
 
 - **Instant URL Shortening** — Paste a long URL and get a short link immediately.
-- **Redirects with Click Tracking** — Short links redirect to the original and increment click counts.
+- **Redirects with Click Tracking** — Short links redirect to the original and increment click counts
 - **QR Code for Latest Link** — Auto-generated scannable QR code for easy mobile sharing.
 - **Local History** — Persisted in localStorage with clear history option.
 - **Copy to Clipboard** — One-click copy with visual feedback.
