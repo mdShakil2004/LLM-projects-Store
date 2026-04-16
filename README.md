@@ -44,7 +44,7 @@ Run projects **locally or in the cloud**.
 1. [AI-powered health and fitness assistant using LLMs](Advanced_ai_model/Health_and_Fintness_ai)
 2. [Advanced Multi-Agent AI Researcher built with Streamlit + Agno](Advanced_ai_model/advanced%20ai%20research_agent)
 3. [AI-Researcher_finetech](Advanced_ai_model/multi_agent_AI_research_system)
-4. [indian_contitution_law](indian_contitution_law)
+4. [indian_contitution_law LLM](indian_contitution_law)
 5. comming soon... 
 
 ## SaaS models 
