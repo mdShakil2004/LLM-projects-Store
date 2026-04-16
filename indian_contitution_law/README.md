@@ -38,8 +38,9 @@ Uses a structured JSON dataset:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/legal-rag-assistant.git
-cd legal-rag-assistant
+git clone https://github.com/mdShakil2004/LLM-projects-Store.git
+cd indian_contitution_law
+
 
 pip install -r requirements.txt
 ```
