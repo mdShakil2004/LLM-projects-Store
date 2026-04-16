@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) based legal assistant built using open-so
 ---
 
 ## 🚀 Features
-
+ 
 * 🔍 Semantic search using FAISS
 * 🧠 Legal embeddings with InLegalBERT
 * 🤖 Answer generation using FLAN-T5
