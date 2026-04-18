@@ -71,7 +71,7 @@ Want to add a project?
 
 1. Fork the repo  
 2. Create a branch (or use category branch)  
-3. Follow `PROJECT_TEMPLATE.md`  
+3. Follow `PROJECT_TEMPLATE.md` given  
 4. Submit a PR  
 5. Get indexed on the main page 🚀  
 
